@@ -1,0 +1,10 @@
+spring:
+    jackson:
+    default-property-inclusion: non_null
+
+smartlab:
+    start-date: 17.10.2020 17:00
+    pause-between-round: 3
+    pause-between-game: 1
+server:
+    port: 8280
